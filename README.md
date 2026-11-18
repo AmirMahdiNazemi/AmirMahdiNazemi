@@ -24,5 +24,5 @@ We are dedicated to crafting modern software solutions and shaping a new era in 
 
 ### 📬 Contact & Collaboration
 
-- **GitHub Organization:** [@AIONOfficial](https://github.com/AIONOfficial)
+- **GitHub Organization:** [@AION-Industries](https://github.com/AION-Industries)
 - **Project Support:** feedback.aion@gmail.com
